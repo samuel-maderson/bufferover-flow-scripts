@@ -1,6 +1,6 @@
 import socket
 
-IP = "127.0.0.1"
+IP = "10.1.1.1"
 PORT = 5800
 y = 100
 
